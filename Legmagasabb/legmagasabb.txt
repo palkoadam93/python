@@ -1,0 +1,6 @@
+﻿név;város;ország;magasság;emelet;épült
+Avaz Twist Tower;Szarajevó;Bosznia-Hercegovina;172;40;2007
+Avenue, 77 block 1;Moszkva;Oroszország;155;43;2008
+Broadgate Tower;London;Anglia;164,3;35;2007
+Centrum LIM;Varsó;Lengyelország;140;43;1989
+Centrum LIM;Varsó;olasz;140;43;1989
